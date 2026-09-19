@@ -22,7 +22,7 @@ export const site = {
   description:
     "Mitraarka Software Solutions builds custom software, web and mobile apps, cloud platforms and AI automation for growing businesses.",
   url: resolveSiteUrl(),
-  email: "info@mitraaka.com",
+  email: "info@mitraarka.com",
   phone: "+91 99669 45450",
   address: ["1-2-263, Rehmanth Nagar, Kazipet", "Hanumakonda, Telangana 506003"],
   mapUrl: "https://www.google.com/maps/search/?api=1&query=1-2-263+Rehmanth+Nagar+Kazipet+Hanumakonda+Telangana+506003",
